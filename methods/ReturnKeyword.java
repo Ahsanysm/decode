@@ -1,7 +1,4 @@
 package methods;
-
-import org.w3c.dom.ls.LSOutput;
-
 public class ReturnKeyword {
     public static void greet (int time) {
         if (time > 12)
